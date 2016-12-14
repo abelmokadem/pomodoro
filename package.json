@@ -2,6 +2,10 @@
   "name": "pomodoro",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "7.1.0",
+    "npm": "3.10.9"
+  },
   "devDependencies": {
     "react-scripts": "0.8.4"
   },
