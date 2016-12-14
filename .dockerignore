@@ -1,6 +1,0 @@
-.git
-.gitignore
-node_modules
-
-# See https://semaphoreci.com/docs/docker.html
-.semaphore-cache
