@@ -15,7 +15,7 @@
     "react-dom": "^15.4.1"
   },
   "scripts": {
-    "start": "pushstate-server build 80",
+    "start": "pushstate-server build",
     "watch": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
